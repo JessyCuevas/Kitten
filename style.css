@@ -1,0 +1,68 @@
+body{
+	margin: 0px;
+    background: linear-gradient(to top right, 	#99ffff , #00e6e6 , #e6ffff );
+}
+
+.container{
+    padding: 100%;
+	background: url(sunny-day.jpg);
+	background-repeat: no-repeat;
+    background-size: 50% 30%; }
+
+ .kitty{
+ 	float: left;
+ 	padding: 37%;
+ 	position: static;
+ 	margin: 30%;
+	background: url(kitten-large.png);
+	background-repeat: no-repeat;
+    background-size: 50% 30%; }
+
+
+
+
+  @media screen and (max-width: 900px) and (min-width: 600px){
+
+  	body{
+  		background: linear-gradient(to top right, 	#d580ff, #3380cc, #3380cc, #d580ff);}
+
+  	.container{
+    padding: 100%;
+	background: url(dawn.png);
+	background-repeat: no-repeat;
+    background-size: 50% 30%; }
+
+    .kitty{
+ 	float: left;
+ 	padding: 37%;
+ 	position: static;
+ 	margin: 30%;
+	background: url(kitten-medium.png);
+	background-repeat: no-repeat;
+    background-size: 50% 30%; }
+
+  }
+
+  @media screen and (max-width: 600px){
+
+  	body{
+  		background: linear-gradient(to top right, 	#000, #000);}
+
+  	.container{
+    padding: 100%;
+	background: url(night.jpg);
+	background-repeat: no-repeat;
+    background-size: 50% 30%; }
+
+    .kitty{
+ 	float: left;
+ 	padding: 40%;
+ 	position: static;
+ 	margin: 15% 25%;
+	background: url(kitten-small.png);
+	background-repeat: no-repeat;
+    background-size: 50% 50%; }
+}
+
+
+
