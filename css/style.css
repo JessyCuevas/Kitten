@@ -5,7 +5,7 @@ body{
 
 .container{
   padding: 40% 10%;
-	background: url(sunny-day.jpg);
+	background: url(../assets/images/sunny-day.jpg);
 	background-repeat: no-repeat;
   background-size: 100% 100%; }
 
@@ -14,7 +14,7 @@ body{
  	padding: 37%;
  	position: static;
  	margin: 30%;
-	background: url(kitten-large.png);
+	background: url(../assets/images/kitten-large.png);
 	background-repeat: no-repeat;
     background-size: 50% 30%; }
 
@@ -29,7 +29,7 @@ body{
 
   	.container{
     padding: 100%;
-	  background: url(dawn.png);
+	  background: url(../assets/images/dawn.png);
 	  background-repeat: no-repeat;
     background-size: 50% 30%; }
 
@@ -38,7 +38,7 @@ body{
  	  padding: 37%;
  	  position: static;
  	  margin: 30%;
-	  background: url(kitten-medium.png);
+	  background: url(../assets/images/kitten-medium.png);
 	  background-repeat: no-repeat;
     background-size: 50% 30%; }
 
@@ -52,7 +52,7 @@ body{
 
   	.container{
     padding: 100%;
-	  background: url(night.jpg);
+	  background: url(../assets/images/night.jpg);
 	  background-repeat: no-repeat;
     background-size: 50% 30%; }
 
@@ -61,7 +61,7 @@ body{
  	  padding: 40%;
  	  position: static;
  	  margin: 15% 25%;
-	  background: url(kitten-small.png);
+	  background: url(../assets/images/kitten-small.png);
 	  background-repeat: no-repeat;
     background-size: 50% 50%; }
 }
